@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🌹 Hello, my name is Rosamund (she/her) 🌹
+### I'm a developer working with:
 
-<!--
-**rosamundm/rosamundm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Python & Django (primarily) 🐍
+ - JavaScript & its various ecosystems (sometimes) ☕️
 
-Here are some ideas to get you started:
+### 🖋 Fun fact: I have a solid background in writing, editing, and translation from my previous career. I decided to switch to software development in 2019.
+Making technical knowledge clear, accessible, and enjoyable to all is a passion of mine, as you can see on my [blog](https://rosamund.dev)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗣 I have an active working knowledge of both English and German.
+Feel free to talk to me in French, too!
+
+### 💻  Here are a couple of my recent projects (some repositories are private for security reasons — I can show them upon request):
+* tech blog, built with Next.js
+* API for Berlin streets named after historical women, built with Django REST Framework
+* a frontend application accompanying this, built with React
