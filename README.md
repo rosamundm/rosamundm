@@ -1,4 +1,4 @@
-## 🌹 Hello, my name is Rosamund (she/her) 🌹
+## 🌹 Hello, my name is Rosamund 🌹
 ### I'm a developer working with:
 
  - Python & Django (primarily) 🐍
@@ -10,7 +10,7 @@ Making technical knowledge clear, accessible, and enjoyable to all is a passion 
 ### 🗣 I have an active working knowledge of both English and German.
 Feel free to talk to me in French, too!
 
-### 💻  Here are a couple of my recent projects (some repositories are private for security reasons — I can show them upon request):
+### 💻  Here are a couple of my recent projects (certain repositories are private cos I don't want people to fork them — I can show them upon request):
 * tech blog, built with Next.js
 * API for Berlin streets named after historical women, built with Django REST Framework
 * a frontend application accompanying this, built with React
