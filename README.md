@@ -10,7 +10,7 @@ Making technical knowledge clear, accessible, and enjoyable to all is a passion 
 ### 🗣 I have an active working knowledge of both English and German.
 Feel free to talk to me in French, too!
 
-### 💻  Here are a couple of my recent projects (certain repositories are private cos I don't want people to fork them — I can show them upon request):
-* tech blog, built with Next.js
-* API for Berlin streets named after historical women, built with Django REST Framework
-* a frontend application accompanying this, built with React
+### 💻  Here are a couple of my recent projects:
+* tech blog, built with Next.js (repo available upon request | [project](https://www.rosamund.dev/))
+* API for Berlin streets named after historical women, built with Django REST Framework ([repo](https://github.com/rosamundm/womens-history-of-berlin--api))
+* a frontend application accompanying this, built with React ([repo](https://github.com/rosamundm/womens-history-of-berlin--frontend) | [project](https://womens-history-of-berlin.netlify.app/))
