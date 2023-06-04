@@ -11,7 +11,7 @@ Making technical knowledge clear, accessible, and enjoyable to all is a passion 
 * tech blog, built with Next.js (repo available upon request | [project](https://www.rosamund.dev/))
 * API for Berlin streets named after historical women, built with Django REST Framework ([repo](https://github.com/rosamundm/womens-history-of-berlin--api))
 * a frontend application accompanying this, built with React ([repo](https://github.com/rosamundm/womens-history-of-berlin--frontend) | [project](https://womens-history-of-berlin.netlify.app/))
-* app showing my personal recommendations for vegan places in Berlin according to different criteria, built with TypeScript and React ([repo]([https://github.com/rosamundm/womens-history-of-berlin--api](https://github.com/rosamundm/vegan-finder)) | [project]([https://www.rosamund.dev/](https://berlin-vegan-finder.netlify.app/))
+* app showing my personal recommendations for vegan places in Berlin according to different criteria, built with TypeScript and React ([repo](https://github.com/rosamundm/vegan-finder) | [project](https://berlin-vegan-finder.netlify.app/))
 
 ### 🗣 I have an active working knowledge of both English and German.
 Feel free to talk to me in French, too!
