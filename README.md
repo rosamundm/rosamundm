@@ -1,8 +1,8 @@
 ## 🌹 Hello, my name is Rosamund 🌹
 ### I'm a developer working with:
 
- - Python & Django (primarily) 🐍
- - JavaScript & its various ecosystems ☕️
+ - Python, especially Django 🐍
+ - JavaScript ☕️
 
 ### 🖋 Fun fact: I have a solid background in writing, editing, and translation from my previous career. In 2019, I decided to commit to learning to code and switch to working in software development.
 Making technical knowledge clear, accessible, and enjoyable to all is a passion of mine, as you can see on my [blog](https://rosamund.dev)!
