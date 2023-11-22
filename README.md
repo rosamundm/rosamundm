@@ -1,14 +1,7 @@
 ## Hello, my name is Rosamund!
-### I'm a developer working with:
 
- - Python, especially Django 🐍
- - JavaScript ☕️
-
-### 🌝 Currently available for new opportunities! 🌞 
-
+* I'm a developer and writer.
 * You can read more about me and what makes me tick on [my website](https://rosamundmather.com/).
-* I have an active working knowledge of both English and German.
-* My profile picture is from Lotte Laserstein's *Abend über Potsdam* (1930).
 
 ### Here are a few of my recent personal web projects:
 * API for Berlin streets named after historical women, built with Django REST Framework ([repo](https://github.com/rosamundm/womens-history-of-berlin--api))
