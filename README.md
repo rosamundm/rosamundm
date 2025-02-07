@@ -1,6 +1,6 @@
 ## Hello, my name is Rosamund!
 
-* I'm a developer and writer. Day-to-day, I currently work with Python/Django and TypeScript/React.
+* Day-to-day, I currently work with Python/Django and TypeScript/React.
 * You can read more about me and what makes me tick on [my website](https://rosamundmather.com/).
 
 ### Here are a few of my recent personal web projects:
